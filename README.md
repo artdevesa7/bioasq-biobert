@@ -146,3 +146,6 @@ Please see and agree `LICENSE` file for details. Downloading data indicates your
 For help or issues using our model, please contact Wonjin Yoon (`wonjin.info {at} gmail.com`) for communication related to the paper.
 <br>We welcome any suggestion regarding this repository.
 <br>**Please denote the name of our paper when you contact me (Wonjin)** since I maintain BioBERT and other repositories using BioBERT.
+
+## Personal notes 
+https://arxiv.org/pdf/1909.08229.pdf
